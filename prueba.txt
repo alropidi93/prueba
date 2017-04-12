@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 hola mundo cambio
 
 este es el cambio que se quiere
+=======
+hola mundo cambiomfdmfkldmflkdmfkdlmkl
+>>>>>>> borrador
